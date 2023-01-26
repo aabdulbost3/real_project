@@ -1,0 +1,8 @@
+.modalwidth {width: 400px;}
+.sssd{padding: 0 5%;}
+@media only screen and (max-width: 400px) {
+    .modalwidth{width: 330px;}
+}
+@media only screen and (max-width: 330px) {
+    .modalwidth{width: 280px;}
+}

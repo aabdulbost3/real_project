@@ -1,0 +1,30 @@
+.TitleD {
+  font-size: 30px;
+  font-family: Georgia, "Times New Roman";
+  text-align: center;
+  color: rgb(77, 154, 0);
+  padding: 20px;
+}
+.sss {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5% 0%;
+}
+.sss iframe {
+  width: 50%;
+  height: 600px;
+}
+@media only screen and (max-width: 953px) {
+  .sss iframe {
+    width: 80%;
+    height: 400px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .sss iframe {
+    padding: 0 5%;
+    width: 90%;
+    height: 400px;
+  }
+}

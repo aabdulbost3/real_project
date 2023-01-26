@@ -1,0 +1,36 @@
+.action{
+    /* height: 400px; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    padding: 5%;
+}
+.aksiya{
+    max-width: 400px;
+    padding: 2%;
+}
+.aksiya h3{
+    font-size: 16px;
+}
+.ac-h2{
+    text-align: center;
+    font-size: 40px;
+    font-weight: normal;
+    font-family: Georgia, 'Times New Roman',;
+}
+.aksiya img {
+    width: 100%;
+}
+
+@media only screen and (max-width: 480px) {
+    .aksiya{width: 380px;}
+}
+@media only screen and (max-width: 400px) {
+    .aksiya{
+        width: 100%;
+    }
+    .action {
+        flex-wrap: wrap;
+    }
+}

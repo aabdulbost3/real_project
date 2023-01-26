@@ -1,0 +1,35 @@
+{
+  "Header": {
+    "0": "Aksiyalar",
+    "1": "Manzil",
+    "2": "Qabulga yozilish",
+    "3": "Xizmatlar",
+    "4": "Shifokorlar",
+    "5": "Biz Xaqimizda",
+    "6": "Yangiliklar",
+    "7": "Hamkorlik",
+    "8": "Toshkentdan tashrif buyuradigan shifokorlar",
+    "9": "Fizo Terapiya",
+    "10" : "Mutaxasislar",
+    "11" : "Diognostika",
+    "12":"Klinika haqida",
+    "13":"Afzalliklar",
+    "14":"Qulayliklar",
+    "15":"Sertikat va Litsenziyalar"
+  },
+  "Footer" : {
+  "0" : "Aloqa",
+  "1" : "Telefon",
+  "2" : "Call Markaz",
+  "3" : "Hospital",
+  "4" : "Manzil",
+  "5" : "Sirdaryo viloyat Sirdaryo tumani Ziokor Shaxonasi moljal Malok builish",
+  "6" : "Ijtimoiy Tarmoqlar obuna boling"
+  },
+  "Doctors": {
+    "0": "Bizga qo'ng'iroq qiling"
+  },
+  "Aksiya" : {
+    "0" : "Aksiya"
+  }
+}
